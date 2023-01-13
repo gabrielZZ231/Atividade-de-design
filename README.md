@@ -1,5 +1,6 @@
-<h3 align="center">Site desenvolvido com o intuito de praticar a aplicação de ferramentas para implementação de responsividade no site com o tema copa do mundo</h3>
-
+<h2 align="center">Site Copa do Mundo</h2>
+<br>
+<h3 align="left">Site desenvolvido com o intuito de praticar a aplicação de ferramentas para implementação de responsividade no site com o tema copa do mundo</h3>
 - 👨‍💻 Acesse o site **https://copadomundo2022.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
